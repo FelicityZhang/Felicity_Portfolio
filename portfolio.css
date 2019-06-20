@@ -1,0 +1,227 @@
+.headdisplay{
+    text-align: center;
+    }
+    
+    .navbar{
+        display: flex;
+        flex-direction: row;
+        
+    }
+
+    .whitecolor{
+        color: white;
+    }
+
+    .blackcolor{
+        color: black;
+    }
+
+    .colorgrey{
+        color: grey;
+        font-style: italic;
+    }
+
+    .link{
+        text-decoration: none;
+        /* color:black; */
+        font-size:1.5vw;
+      }
+      
+      
+      .link:active{
+        color:brown;
+      }
+      
+      .link:hover{
+        color:brown;
+      
+      }
+
+   .table{
+       margin-left: 30px;
+   }
+
+    .title{
+     text-align: center;
+    }
+    
+    .subtitle{
+        color:gray;
+    }
+    
+    .imgcontainer{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 60%;
+        margin-top: 20px;
+    }
+    
+    
+    .mainpage{
+        padding-bottom: 20px;
+        padding-top: 20px;
+        margin-left: 90px;
+        margin-right: 80px;
+        margin-top: 40px;
+        width: 1200px;
+        /* background-color: grey; */
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
+    }
+
+    
+
+    .titleContainer{
+        text-align: center;
+        margin-top: 70px;
+        font-size: 1.2em
+    }
+
+    .porttitleContainer{
+        text-align: center;
+        margin-top: 30px;
+        font-size: 0.8em
+    }
+
+    
+    .educaiton{
+        margin-top: 50px;
+        background-color: black;
+        text-decoration-color: white;
+        margin-bottom: 20px;
+    }
+    
+    .about{
+        letter-spacing:0.08em;
+        font-size: 1.2em;
+        width:400px;
+        height:200px;
+        color:white;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+    .aboutCon{
+        margin-top: 60px;
+    }
+ 
+    .homebody{
+        background: url("./img/113556750.jpg");
+        background-repeat: no-repeat;
+        background-size: 1500px 1050px;
+        display: block;
+    }
+
+
+    .portbody{
+        background-size: cover;
+        font-size: 20px;
+    }
+    
+    h2{
+      color:grey;
+    }
+    .main{
+        text-align: center;  
+    }
+    
+    .img-div{
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
+    .img-container{
+        background-color: grey;
+        margin-left: 370px;
+        margin-right: 370px;
+    }
+    
+    .text-div{
+        background-color: grey;
+        padding:20px;
+    }
+     
+    
+    .contact{
+        height: 200px;
+        margin-top: 100px;
+        margin-left: 1000px;
+        line-height: 1.2em;
+        /* letter-spacing:0.02em; */
+        font-size: 1.1em;
+        color:white;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+    
+    
+    #text-center{
+        text-align: center;
+    }
+    
+    .list-item{
+        line-height: 1.5em;
+      }
+    
+      .link{
+          position: relative;
+          padding-top: 20px; 
+    }
+    
+    
+      .text-div{
+        background-color: grey;
+      }
+      
+      #submitButton{
+        color:red;
+      }
+
+      .strong{
+          font-weight: bold;
+      }
+
+      .portTitle{
+        font-size:1.8vw;
+        margin-bottom: 10px;
+      }
+      
+      .portImg{
+        /* display:absolute; */
+        width:900px;
+        /* top:500px; */
+        margin-top:20px;
+        margin-bottom:20px;
+        /* display: block; */
+
+      }
+
+      .margin-70{
+        margin-right:70px;
+      }
+
+
+      .resumepage{
+          margin-top:40px;
+      }
+
+      .webLink{
+          margin-left: 800px;
+          color:grey;
+          margin-top:50px;
+          font-size: 1.2em;
+      }
+
+      .jiantou{
+        color:brown;
+      }
+
+      .margin-30{
+          margin-top:30px;
+          margin-bottom: 30px;
+      }
+
+      .margin-10{
+        margin-top:10px;
+        margin-bottom: 10px;
+    }
